@@ -9,7 +9,7 @@ A box with some sensors around it to can sense changes in the environment. The l
 
 + LDR's
 + Acellerometer
-+ Piezo Buzzer
++ Piezo Element
 + Thermistor
 + Maybe some more?
 
