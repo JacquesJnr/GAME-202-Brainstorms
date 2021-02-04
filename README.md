@@ -1,9 +1,8 @@
 ## 1. Creature House:
 
 [![Image from Gyazo](https://i.gyazo.com/3993727557472a3c36de5484153f9c75.png)](https://gyazo.com/3993727557472a3c36de5484153f9c75)
-##### **Abstract:**
 
-<p style="text-align: center;">|      **Figure 1.** _This is a caption_     | </p>
+##### **Abstract:**
 
 A physical box with some sensors around it represents a creatures home. The creature inside this box reacts differently depending on the readings of those sensors.
 
@@ -33,6 +32,11 @@ Make monkey noises! Stomp your feet! Beat your chest! `APE OUT!` You are a monke
 + **Copper Tape** - For capacitive touch
 + **Microphone** - To sense any monkey noises
 + **Some kind of monkey costume?** - To attatch components to the player.
+
+First Header | |
+------------ | -------------
+Content from cell 1 |
+Content in the first column |
 
 ##### **The Game:**
 
